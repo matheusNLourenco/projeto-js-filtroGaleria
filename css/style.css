@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.btn-container{
+  text-align: center;
+}
+.img-container{
+  max-width: 960px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn{
+  background-color: #6a5acd;
+  border: 3px solid #6a5acd;
+  color: #fff;
+  padding: 10px 17px;
+}
+.div img{
+  max-width: 100%;
+  display: block;
+  height: 350px;
+
+}
+.div{
+  width: calc(310px - 10px);
+  margin: 10px;
+  transition: ease 5s linear;
+}
+.active{
+  color: black;
+  background-color: transparent;
+  border: 3px solid #6a5acd;
+  transition: .5s ease;
+}
