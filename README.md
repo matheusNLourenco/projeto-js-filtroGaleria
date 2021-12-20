@@ -1,5 +1,5 @@
 <h1 align=" center"> 
-    Filter Gallery 🎈
+    Filtro de galeria 🎈
 </h1>
 
 <h1>
@@ -7,13 +7,13 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://matheusnlourenco.github.io/project-js-filtergalery/">See the Project</a>
+    <a href="https://matheusnlourenco.github.io/project-js-filtergalery/">Ver projeto</a>
 </h2>
-<h2>🚨 about </h2>
+<h2>🚨 Sobre </h2>
 
-simple design of a photo gallery filter.
+Projeto simples de um filtro de galeria.
 
-<h2>🔨 Tools</h2>
+<h2>🔨 Ferramentas </h2>
 
 - HTML
 - CSS
